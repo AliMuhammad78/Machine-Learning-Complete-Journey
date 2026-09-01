@@ -2,7 +2,7 @@
 
 > A comprehensive collection of my **Machine Learning studies, implementations, coursework, assignments, experiments, and practical learning** — from fundamental concepts to advanced algorithms.
 
---- 
+---  
 
 ## 📌 About This Repository
 
