@@ -14,7 +14,7 @@ Beyond university coursework, I studied Machine Learning extensively through **m
 
 This repository brings together my practical work from that learning process, including:
 
-* 📚 University course material
+* 📚 University course material 
 * 📝 Assignments and coursework
 * 💻 Hands-on Python implementations
 * 🧹 Data preprocessing techniques
