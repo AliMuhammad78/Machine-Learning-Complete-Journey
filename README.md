@@ -63,7 +63,7 @@ Machine-Learning-Complete-Journey/
 │   ├── Decision Trees
 │   ├── Embeddings & Sequence Models
 │   ├── Transformers
-│   └── Bagging & Boosting
+│   └── Bagging & Boosting 
 │
 └── 📁 Supervised/
     │
