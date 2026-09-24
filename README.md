@@ -66,7 +66,7 @@ Machine-Learning-Complete-Journey/
 │   └── Bagging & Boosting 
 │
 └── 📁 Supervised/
-    │
+    │  
     ├── all_models.ipynb
     │
     ├── 📁 Classification/
