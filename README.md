@@ -30,7 +30,7 @@ This repository brings together my practical work from that learning process, in
 
 The goal is not simply to collect notebooks, but to maintain a **structured record of my understanding and implementation of Machine Learning concepts**.
 
----
+---  
 
 # 🗂️ Repository Structure
 
