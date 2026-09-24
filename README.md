@@ -13,7 +13,7 @@ I initially studied Machine Learning as part of my **BSCS university coursework*
 Beyond university coursework, I studied Machine Learning extensively through **multiple courses, books, lectures, and hands-on implementations**.
 
 This repository brings together my practical work from that learning process, including:
-
+  
 * 📚 University course material  
 * 📝 Assignments and coursework
 * 💻 Hands-on Python implementations
