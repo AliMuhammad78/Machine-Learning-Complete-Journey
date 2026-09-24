@@ -32,7 +32,7 @@ The goal is not simply to collect notebooks, but to maintain a **structured reco
 
 ---  
 
-# 🗂️ Repository Structure
+# 🗂️ Repository Structure  
 
 ```text
 Machine-Learning-Complete-Journey/
