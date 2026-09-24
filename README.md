@@ -22,7 +22,7 @@ This repository brings together my practical work from that learning process, in
 * 🎯 Classification algorithms
 * 🌲 Tree-based models
 * 🚀 Ensemble learning
-* ⚙️ Model improvement and hyperparameter tuning
+* ⚙️ Model improvement and hyperparameter tuning  
 * 🔄 Cross-validation
 * 📊 Model evaluation
 * 🧠 Neural Network concepts
